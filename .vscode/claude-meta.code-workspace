@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "name": "claude-meta", "path": ".." },
+    { "name": "claude-skills", "path": "../../claude-skills" },
+    { "name": "claude-hooks", "path": "../../claude-hooks" },
+    { "name": "claude-agents", "path": "../../claude-agents" },
+    { "name": "claude-mcps", "path": "../../claude-mcps" }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder:claude-meta}"
+  }
+}

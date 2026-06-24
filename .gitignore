@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE — keep the committed workspace, ignore local editor settings
+.vscode/*
+!.vscode/*.code-workspace
+.idea/
+*.swp
+
+# Logs / scratch
+*.log
+
+# AI Agents
+AGENTS.md
+.agents/
+.codex/
+.gemini/
+.copilot/
